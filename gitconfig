@@ -60,5 +60,5 @@
 [init]
   defaultBranch = master
 [user]
-	email = simonl
+	email = simon@finzel.me
 	name = Simon Finzel
